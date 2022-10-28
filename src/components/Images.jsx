@@ -1,6 +1,6 @@
 import { useEffect, useState} from "react";
 import ReactPaginate from "react-paginate";
-import '/src/App.css'
+import '/src/App.css';
 
 export default function images(props) {
     const { results } = props;
